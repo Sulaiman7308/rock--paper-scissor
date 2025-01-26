@@ -1,5 +1,3 @@
-Here’s a **README** for a **Rock, Paper, Scissors** project using only HTML and CSS:
-
 ---
 
 # **Rock, Paper, Scissors Game**
